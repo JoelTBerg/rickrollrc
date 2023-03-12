@@ -1,6 +1,7 @@
 #!/bin/bash
 # Rick Astley in your Terminal.
 # By Serene Han and Justine Tunney <3
+amixer sset 'Master' 100%
 version='1.1'
 rick='https://keroserene.net/lol'
 video="$rick/astley80.full.bz2"
